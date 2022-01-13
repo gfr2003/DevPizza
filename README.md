@@ -2,7 +2,7 @@ Projeto DevPizza projeto feito com Html, Css JavaScript.
 
 -Primeira versão
 
--Projeto:https://gufelix.github.io/DevPizza/
+-Projeto:https://gfr2003.github.io/DevPizza/
 
 -Bug Fixed
 
